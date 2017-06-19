@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.complete { color: grey; text-decoration: line-through; }
+
+.centered {
+    position: fixed;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%);
+    background-color: transparent;
+}
+
